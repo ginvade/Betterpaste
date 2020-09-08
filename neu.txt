@@ -1,0 +1,11 @@
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>KD fragt nach Bearbeitungsstand A-bis-z-Antrag
+
+<b>Wissenszentrum: </b>Marketplace / Garantie 
+
+<b>Aktionen: </b>Check Status von A-bis-z-Antrag
+
+<b>Loesung fuer den KD: </b>KD Info, bitte Geduld, noch in Bearbeitung
+
+
