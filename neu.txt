@@ -66,11 +66,31 @@ WMR / MP Erstattung verzoegert / MP kontaktiert
 
 ---------------------------------------------------------------------------------------------
 
+WMS / Retoure FBA / Erstattung
 
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMS
+
+<b>Wissenszentrum: </b>WMS
+
+<b>Aktionen: </b>Recherche, Sendung wird an VK retourniert
+
+<b>Loesung fuer den KD: </b>KD Info Erstattung, bitte erneut bestellen, da FBA
 
 ---------------------------------------------------------------------------------------------
 
+WMS / Retoure / Ersatz/Erstattung
 
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMS
+
+<b>Wissenszentrum: </b>WMS
+
+<b>Aktionen: </b>Recherche, Sendung wird an VK retourniert, Ersatz/Erstattung veranlasst
+
+<b>Loesung fuer den KD: </b>KD Info Erstattung/Ersatz
 
 ---------------------------------------------------------------------------------------------
 
