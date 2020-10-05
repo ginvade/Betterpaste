@@ -94,7 +94,15 @@ WMS / Retoure / Ersatz/Erstattung
 
 ---------------------------------------------------------------------------------------------
 
+<b>Bestellnummer/Abo-ID: </b>
 
+<b>Anliegen des KD: </b>WMS, Zugestellt nicht erhalten / Warensendung
+
+<b>Wissenszentrum: </b>WMS
+
+<b>Aktionen: </b>Traces noch nicht abgelaufen, keine Sendungsverfolgung, daher warten bis bis Ablauf Traces
+
+<b>Loesung fuer den KD: </b>KD bitte Geduld bis Traces
 
 ---------------------------------------------------------------------------------------------
 
