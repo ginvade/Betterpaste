@@ -55,6 +55,14 @@ h3 {
 	color: white;
 } 
 
+h4 { 
+	font-family: Verdana, Geneva, sans-serif; 
+	font-size: 10px; font-style: normal; 
+	font-variant: normal; font-weight: 700; 
+	line-height: 15.4px; 
+	color: white;
+} 
+
 p { 
 	font-family: Verdana, Geneva, sans-serif; 
 	font-size: 14px; font-style: normal; 
