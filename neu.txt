@@ -1,0 +1,139 @@
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>KD fragt nach Bearbeitungsstand A-bis-z-Antrag
+
+<b>Wissenszentrum: </b>Marketplace / Garantie 
+
+<b>Aktionen: </b>Check Status von A-bis-z-Antrag
+
+<b>Loesung fuer den KD: </b>KD Info, bitte Geduld, noch in Bearbeitung
+
+---------------------------------------------------------------------------------------------
+
+KONTOSCHLIESSUNG / DATENLÖSCHUNG
+
+<b>Bestellnummer/Abo-ID: </b>-
+
+<b>Anliegen des KD: </b>Kontoschließung
+
+<b>Wissenszentrum: </b>Kontoschließung / Datenlöschung
+
+<b>Aktionen: </b>KD AT konto_schließen_daten_löschen_bestätigung
+
+<b>Loesung fuer den KD: </b>Info bitte Mail lesen und Anweisungen darin folgen
+
+---------------------------------------------------------------------------------------------
+
+ZAHLUNGSART ABGELEHNT
+
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>Zahlungsart abgelehnt
+
+<b>Wissenszentrum: </b>Zahlungsart abgelehnt 
+
+<b>Aktionen: </b>Recherche, Bankeinzug/Monatsabrechnung vom System abgelehnt
+
+<b>Loesung fuer den KD: </b>KD aufgeklaert, manchmal keine Zahlung per Bankeinzug/Monatsabrechnung moeglich, bitte auf Kreditkarte oder Gutschein wechseln
+
+---------------------------------------------------------------------------------------------
+
+WMS / Verloren / Erstattung
+
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMS
+
+<b>Wissenszentrum: </b>	WMS / Grundlagen / Konzessionen 
+
+<b>Aktionen: </b>Traces abgelaufen, KD hat Sendung noch nicht erhalten, Erstattung veranlasst
+
+<b>Loesung fuer den KD: </b>Info Erstattung
+
+---------------------------------------------------------------------------------------------
+
+WMR / MP Erstattung verzoegert / MP kontaktiert
+
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMR
+
+<b>Wissenszentrum: </b>Marketplace / Rücksendung
+
+<b>Aktionen: </b>MP kontaktiert, gebeten Rücksendung zu bearbeiten
+
+<b>Loesung fuer den KD: </b>Info, 2 Tage Geduld,  MP Antwort
+
+---------------------------------------------------------------------------------------------
+
+WMS / Retoure FBA / Erstattung
+
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMS
+
+<b>Wissenszentrum: </b>WMS
+
+<b>Aktionen: </b>Recherche, Sendung wird an VK retourniert
+
+<b>Loesung fuer den KD: </b>KD Info Erstattung, bitte erneut bestellen, da FBA
+
+---------------------------------------------------------------------------------------------
+
+WMS / Retoure / Ersatz/Erstattung
+
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMS
+
+<b>Wissenszentrum: </b>WMS
+
+<b>Aktionen: </b>Recherche, Sendung wird an VK retourniert, Ersatz/Erstattung veranlasst
+
+<b>Loesung fuer den KD: </b>KD Info Erstattung/Ersatz
+
+---------------------------------------------------------------------------------------------
+
+<b>Bestellnummer/Abo-ID: </b>
+
+<b>Anliegen des KD: </b>WMS, Zugestellt nicht erhalten / Warensendung
+
+<b>Wissenszentrum: </b>WMS
+
+<b>Aktionen: </b>Traces noch nicht abgelaufen, keine Sendungsverfolgung, daher warten bis bis Ablauf Traces
+
+<b>Loesung fuer den KD: </b>KD bitte Geduld bis Traces
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------

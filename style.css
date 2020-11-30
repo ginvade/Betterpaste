@@ -33,10 +33,10 @@ button {
 
 h1 { 
 	font-family: Verdana, Geneva, sans-serif; 
-	font-size: 24px; font-style: normal; 
+	font-size: 28px; font-style: normal; 
 	font-variant: normal; 
 	font-weight: 700; line-height: 26.4px; 
-	color: white;
+	color: #fc953a;
 } 
 
 h2 { 
@@ -50,6 +50,14 @@ h2 {
 h3 { 
 	font-family: Verdana, Geneva, sans-serif; 
 	font-size: 14px; font-style: normal; 
+	font-variant: normal; font-weight: 700; 
+	line-height: 15.4px; 
+	color: white;
+} 
+
+h4 { 
+	font-family: Verdana, Geneva, sans-serif; 
+	font-size: 10px; font-style: normal; 
 	font-variant: normal; font-weight: 700; 
 	line-height: 15.4px; 
 	color: white;
